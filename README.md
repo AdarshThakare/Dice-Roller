@@ -33,3 +33,6 @@ ___
 
 ___
 ## Demo
+
+https://github.com/AdarshThakare/Dice-Roller/assets/112002059/f0744916-06f2-429b-9ebe-9feda348c6ce
+
